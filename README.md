@@ -1,4 +1,5 @@
-# teste-vamos supor q o usuário digitou 3 
+# teste-
+vamos supor q o usuário digitou 3 
  abaixo de 3, entre 0 e 3, apenas o 3 é divisível por ele com resto zero
 então assim
 digitou 3
