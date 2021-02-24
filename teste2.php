@@ -1,6 +1,6 @@
 <?php
 
-$numero = $_POST['numero']; # capturou numero passado via POST
+$numero = $_POST['numero'];   
 $divisores = array();
 $soma = 0;
 
